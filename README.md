@@ -1,6 +1,6 @@
 # 🚀 PolyBagML: A Custom Approach for High-Dimensional Intrusion Dataset Prediction
 
-**PolyBagML** is a high-performance machine learning framework designed to handle real-world network intrusion detection problems. Built using **ensemble decision trees** and **XGBoost**, it is optimized for **high-dimensional**, **noisy**, and **imbalanced** datasets like DDoS.
+**PolyBagML** is a high-performance machine learning framework designed to handle real-world network intrusion detection problems. Built using **ensemble decision trees** and **XGBoost**, it is optimized for **high-dimensional**, **noisy**, and **imbalanced** datasets like Distributed Denial of Service (DDOS).
 
 ---
 
